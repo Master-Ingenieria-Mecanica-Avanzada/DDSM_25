@@ -1,10 +1,12 @@
 <div style="text-align: justify;">
 
-# 👨🏻‍🎓Grupo Ejemplo 1:
+# 👨🏻‍🎓Grupo AM:
 
 </div>
 
-Describe el grupo: quienes lo conforman ....
+Describe el grupo: quienes lo conforman 
+Álvaro Extremera
+Mario Domínguez
 
 ## Concepto
 
