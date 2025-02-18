@@ -1,6 +1,6 @@
 <div style="text-align: justify;">
 
-# 👨🏻‍🎓Grupo Ejemplo 2:
+# 👨🏻‍🎓Grupo 3:
 
 </div>
 
