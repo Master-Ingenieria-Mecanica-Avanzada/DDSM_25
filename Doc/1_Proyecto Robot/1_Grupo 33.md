@@ -1,14 +1,10 @@
 <div style="text-align: justify;">
 
-# 👨🏻‍🎓Grupo AM:
+# 👨🏻‍🎓Grupo 33:
 
 </div>
 
-Describe el grupo: quienes lo conforman:
-
-Álvaro Extremera
-
-Mario Domínguez
+Describe el grupo: quienes lo conforman ....
 
 ## Concepto
 
