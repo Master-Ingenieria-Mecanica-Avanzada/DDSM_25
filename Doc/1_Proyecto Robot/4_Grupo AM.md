@@ -4,9 +4,10 @@
 
 </div>
 
-Describe el grupo: quienes lo conforman:;
+Describe el grupo: quienes lo conforman:
 
 Álvaro Extremera
+
 Mario Domínguez
 
 ## Concepto
