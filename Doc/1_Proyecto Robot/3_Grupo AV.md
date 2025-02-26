@@ -31,13 +31,13 @@ The robot features a shovel weapon designed to sweep along the ground and remove
 
 ### Robot Traction
 
-The N20 motor (133 RPM) delivers a torque of up to 1 kg·cm and a speed of 133 RPM at 12V, making it ideal for robot traction. It features a compact size and weighs only 10 g. The robot will use two of these motors. Steering is achieved through di􀄔erential steering, where the wheels on each side are driven at di􀄔erent torques, allowing the robot to turn by varying the relative motion between the two sides.
+The N20 motor (133 RPM) delivers a torque of up to 1 kg·cm and a speed of 133 RPM at 12V, making it ideal for robot traction. It features a compact size and weighs only 10 g. The robot will use two of these motors. Steering is achieved through differential steering, where the wheels on each side are driven at different torques, allowing the robot to turn by varying the relative motion between the two sides.
 
 <img title="" src="https://i.ibb.co/99b0QGPQ/img-4.png" alt="Render tracción" width="385" data-align="center">
 
 ### Robot Control
 
-The robot uses an ESP32 Wroom with Wi-Fi and Bluetooth connectivity, o􀄔ering flexible and reliable connection. A mobile app controls steering and activates weapons in real time.
+The robot uses an ESP32 Wroom with Wi-Fi and Bluetooth connectivity, offering flexible and reliable connection. A mobile app controls steering and activates weapons in real time.
 
 <img title="" src="https://i.ibb.co/F4BJJ8DJ/img-5.png" alt="Render tracción" width="268" data-align="center">
 
