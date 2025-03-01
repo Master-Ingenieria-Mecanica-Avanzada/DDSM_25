@@ -29,12 +29,12 @@ El **Control** se basa en ambas ruedas siendo independientes, controladas por do
 
 | Rueda dizquierda | Rueda derecha | Desplazamiento |
 | ------------- | ------------- | ------------- |
-| :arrow_up: | :arrow_up:  | :arrow_up: |
-| :arrow_down:  | :arrow_down:  | :arrow_down:|
-| :arrow_up:  | :record_button:  | :arrow_right:|
-| :record_button: | :arrow_up: | :arrow_left:|
-| :arrow_up:  | :arrow_down:  | :arrows_clockwise:|
-| :arrow_down:  | :arrow_up: | :arrows_counterclockwise:|
+| ⬆️ | ⬆️ | ⬆️ |
+| ⬇️ | ⬇️ | ⬇️ |
+| ⬆️ | ⏺️ | ➡️ |
+| ⏺️ | ⬆️ | ⬅️ |
+| ⬆️ | ⬇️ | 🔃 |
+| ⬇️ | ⬆️ | 🔄 |
 
 
 
