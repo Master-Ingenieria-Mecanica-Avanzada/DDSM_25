@@ -1,18 +1,17 @@
 <div style="text-align: justify;">
 
-# 👨🏻‍🎓Grupo AM:
+# 👨🏻‍🎓Grupo DR. EMEL:
 
 </div>
 
-Describe el grupo: quienes lo conforman:
+El grupo se conforma por:
 
-Álvaro Extremera
-
-Mario Domínguez
+- Álvaro Extremera
+- Mario Domínguez
 
 ## Concepto
 
-.....
+
 
 ## Diseño detalle
 
