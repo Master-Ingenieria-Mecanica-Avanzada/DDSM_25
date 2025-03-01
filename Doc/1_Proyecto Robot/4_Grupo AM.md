@@ -19,12 +19,25 @@ Tras el estudio de concepto se establecen los componentes que van a ser utilizad
 - ESP32 Wroom WIFI + Bluetooth => ECU
 - Motor N20 1:150 con driver integrado => Tracción de las ruedas
 - Motor micro metal 50:1 HP + Controlador de motor => Engranaje motor
-- Servo estándar S3003, 360 grados => No usado, falta de espacio para el concepto que se quiere desarrollar.
+- ~~Servo estándar S3003, 360 grados~~ => No usado, falta de espacio para el concepto que se quiere desarrollar.
 - Batería Lipo 3500mAh 2S 25C 7.4V
 
+### Sistema de dirección y avance
+Únicamente se disponen dos ruedas que se encargan tanto de la tracción como de la dirección del robot. Para que no exista desequilibrio, se disponen unos patines sobre los que apoyará la estructura.
+
+El **Control** se basa en ambas ruedas siendo independientes, controladas por dos joysticks diferenciados. El movimiento se resume en la siguiente tabla:
+
+| Rueda dizquierda | Rueda derecha | Desplazamiento |
+| ------------- | ------------- | ------------- |
+| :arrow_up: | :arrow_up:  | :arrow_up: |
+| :arrow_down:  | :arrow_down:  | :arrow_down:|
+| :arrow_up:  | :record_button:  | :arrow_right:|
+| :record_button: | :arrow_up: | :arrow_left:|
+| :arrow_up:  | :arrow_down:  | :arrows_clockwise:|
+| :arrow_down:  | :arrow_up: | :arrows_counterclockwise:|
 
 
-### 
+
 
 
 ## Diseño detalle
