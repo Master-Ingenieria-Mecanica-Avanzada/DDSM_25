@@ -36,7 +36,9 @@ El **Control** se basa en ambas ruedas siendo independientes, controladas por do
 | ⬆️ | ⬇️ | 🔃 |
 | ⬇️ | ⬆️ | 🔄 |
 
-
+### Cartel de concepto
+:filefolder: 
+- [DR. EMEL](Cartel robot.pdf)
 
 
 
