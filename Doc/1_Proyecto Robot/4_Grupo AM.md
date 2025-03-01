@@ -27,7 +27,7 @@ Tras el estudio de concepto se establecen los componentes que van a ser utilizad
 
 El **Control** se basa en ambas ruedas siendo independientes, controladas por dos joysticks diferenciados. El movimiento se resume en la siguiente tabla:
 
-| Rueda dizquierda | Rueda derecha | Desplazamiento |
+| Rueda izquierda | Rueda derecha | Desplazamiento |
 | ------------- | ------------- | ------------- |
 | ⬆️ | ⬆️ | ⬆️ |
 | ⬇️ | ⬇️ | ⬇️ |
