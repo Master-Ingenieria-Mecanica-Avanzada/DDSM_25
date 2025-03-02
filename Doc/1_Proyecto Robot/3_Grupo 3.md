@@ -26,9 +26,8 @@ En cuanto a las armas se desarrolla una giratoria utilizando un motor situado en
 Todos los componentes electronicos son controlados por la ESP32 que tiene 4 salidas de puertos digitales para alimetar las 2 señales de los motores PWM, 1 para el servo y 1 para la placa dedicada al control del motor del arma, que esta a su vez tiene una salida analogica que alimenta el motor.
 
 ### Poster Concepto
-jakjbaskjbfkjsFKLlskfn
 
-![Cartel Concepto Robot](Doc\1_Proyecto Robot\Poster\cartel_CYBERTRUCK.png)
+![Cartel Concepto Robot](Doc/1_Proyecto Robot/Poster/cartel_CYBERTRUCK.png)
 
 ## Diseño detalle
 
