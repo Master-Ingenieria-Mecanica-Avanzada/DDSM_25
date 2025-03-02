@@ -1,6 +1,6 @@
 <div style="text-align: justify;">
 
-# 👨🏻‍🎓Grupo 3:
+# 👨🏻‍🎓Grupo CYBERTRUCK:
 
 </div>
 
@@ -19,7 +19,15 @@ El robot de batalla debe tener un peso máximo de 1000 gramos y unas dimensiones
 * Motor N20 1:150 133rpm con driver integrado
 * ESP32 Wroom WIFI + Bluetooth
 
-.....
+El robot tendrá tracción a las dos ruedas controlados por dos motores PWM situados en las ruedas de un mismo eje. El funcionamiento será independiente del sentido vertical de la base, pudiendo funcionar en ambos planos gracias a las ruedas de TPU con mayores dimensiones que el alto de la base.
+
+En cuanto a las armas se desarrolla una giratoria utilizando un motor situado en el frontal del robot.
+
+Todos los componentes electronicos son controlados por la ESP32 que tiene 4 salidas de puertos digitales para alimetar las 2 señales de los motores PWM, 1 para el servo y 1 para la placa dedicada al control del motor del arma, que esta a su vez tiene una salida analogica que alimenta el motor.
+
+### Poster Concepto
+
+<img src="C:\Users\galle\OneDrive\Escritorio\cartel.png" alt="Cartel Concepto Robot" width="500px">
 
 ## Diseño detalle
 
