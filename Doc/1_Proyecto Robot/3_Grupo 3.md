@@ -27,7 +27,7 @@ Todos los componentes electronicos son controlados por la ESP32 que tiene 4 sali
 
 ### Poster Concepto
 
-<img title="" src="https://ibb.co/mrQSzYLC" alt="Concepto Poster Robot" width="400" data-align="center">
+![Cartel Concepto Robot](Doc/1_Proyecto Robot/Poster/cartel_CYBERTRUCK.png)
 
 ## Diseño detalle
 
