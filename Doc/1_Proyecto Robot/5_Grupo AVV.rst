@@ -12,6 +12,7 @@ En este apartado se recogen las restricciones de diseño así como la lista de l
 
 *Sistema de tracción*
 ---------------------------------------
+
 .. image:: ../_static/frames2200.gif
    :width: 400
    :align:right
