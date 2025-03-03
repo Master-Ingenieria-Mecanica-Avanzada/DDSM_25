@@ -13,8 +13,8 @@ En este apartado se recogen las restricciones de diseño así como la lista de l
 *Sistema de tracción*
 ---------------------------------------
 
-.. image:: ../_static/frames2200.gif 
-   :width: 35%
+.. image:: ../_static/GrupoAVV/frames2200.gif 
+   :width: 30%
    :align: right  
 
 Se ha optado por un **sistema de tracción diferencial**, disponiendo de dos ruedas de tracción y una tercera rueda loca para aportar estabilidad. Las ruedas tractoras se accionarán con los dos **motores de reducción 150:1**, uno para cada rueda, con la posibilidad de añadir reducciones intermedias para aumentar el par motor. 
@@ -23,6 +23,7 @@ Cuando ambos motores giren a la misma velocidad y en el mismo sentido el robot p
 
 Concepto del arma
 ---------------------------------
+En este apartado se incluye una descripción del arma, explicando su principio de funcionamiento y los componentes a utilizar en su diseño.
 
 Diseño detalle
 =======================
