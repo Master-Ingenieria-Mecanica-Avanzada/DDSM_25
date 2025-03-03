@@ -14,7 +14,7 @@ En este apartado se recogen las restricciones de diseño así como la lista de l
 ---------------------------------------
 
 .. image:: ../_static/frames2200.gif 
-   :width: 40%
+   :width: 35%
    :align: right  
 
 Se ha optado por un **sistema de tracción diferencial**, disponiendo de dos ruedas de tracción y una tercera rueda loca para aportar estabilidad. Las ruedas tractoras se accionarán con los dos **motores de reducción 150:1**, uno para cada rueda, con la posibilidad de añadir reducciones intermedias para aumentar el par motor. 
