@@ -6,11 +6,11 @@ Equipo formado por Agustín Escalera Zamudio, Víctor Gavira Florido y Vid Baći
 Concepto
 =======================
 
-Especificaciones de diseño
+*Especificaciones de diseño*
 -----------------------------------------
 En este apartado se recogen las restricciones de diseño así como la lista de los materiales disponibles para construir el robot.
 
-Sistema de tracción
+*Sistema de tracción*
 ---------------------------------------
 .. image:: ../_static/frames2200.gif
    :width: 400
