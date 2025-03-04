@@ -25,6 +25,8 @@ Cuando ambos motores giren a la misma velocidad y en el mismo sentido el robot p
 ---------------------------------
 En este apartado se incluye una descripción del arma, explicando su principio de funcionamiento y los componentes a utilizar en su diseño.
 
+.. image:: ../_static/GrupoAVV/AVVCombatRobotPostersvg
+
 Diseño detalle
 =======================
 ...
