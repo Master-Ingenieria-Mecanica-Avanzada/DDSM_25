@@ -21,9 +21,11 @@ Se ha optado por un **sistema de tracción diferencial**, disponiendo de dos rue
 Cuando ambos motores giren a la misma velocidad y en el mismo sentido el robot podrá avanzar en línea recta, mientras que al reducir la velocidad de giro de uno de los motores permitirá que el robot trace una curva alrededor de un punto exterior. En caso de que ambos motores giren a la misma velocidad pero en sentidos opùestos, el robot girará alrededor de si mismo. Los motores se alimentarán con la batería LiPo, y su velocidad y sentido de giro se controlarán mediante **señales PWM enviadas desde el ESP32**.
 
 
-Concepto del arma
+*Concepto del arma*
 ---------------------------------
 En este apartado se incluye una descripción del arma, explicando su principio de funcionamiento y los componentes a utilizar en su diseño.
+
+.. image:: ../_static/GrupoAVV/AVVCombatRobotPoster.svg
 
 Diseño detalle
 =======================
