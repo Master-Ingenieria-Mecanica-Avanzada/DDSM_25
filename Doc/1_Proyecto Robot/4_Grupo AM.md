@@ -37,9 +37,7 @@ El **Control** se basa en ambas ruedas siendo independientes, controladas por do
 | ⬇️ | ⬆️ | 🔄 |
 
 ### Cartel de concepto
-![](https://github.com/Master-Ingenieria-Mecanica-Avanzada/DDSM_25/blob/58a45940d2f896361cf08ad47f172a4b52bb4abd/Doc/_static/GrupoAM/Cartel%20robot.png)
-
-
+<img src="../_static/GrupoAM/Cartel robot.png" width="350">
 
 ## Diseño detalle
 
