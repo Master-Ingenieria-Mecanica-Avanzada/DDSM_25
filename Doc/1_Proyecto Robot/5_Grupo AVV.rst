@@ -23,7 +23,12 @@ Cuando ambos motores giren a la misma velocidad y en el mismo sentido el robot p
 
 *Concepto del arma*
 ---------------------------------
-En este apartado se incluye una descripción del arma, explicando su principio de funcionamiento y los componentes a utilizar en su diseño.
+El arma del robot busca elevar a los oponentes durante el combate, tratando de desestabilizarlos o hacer que pierdan la tracción. Para ello, se pueden recurrir a diversos mecanismos, normalmente, en inversiones cinemáticas de mecanismos básicas como el mecanismo de 4 barras o el biela manivela. En este caso, debido a las limitaciones de materiales por normativa, y por la experiencia del grupo en la fabricación con PLA, se opta por eliminar todas las deslizaderas existentes. 
+La apuesta del grupo AVV es el mecanismo de 4 barras conocido como **Chebyshev Lambda**. Este mecanismo aproxima un **movimiento rectilineo** mediante el movimiento rotativo de uno de los eslabones. Este último, se consigue mediante la conexión de uno de los eslabones con el **servomotor S3003**. Gracias al uso de este motor, contamos con un par elevado, suficiente para elevar a oponentes de hasta 1 kg. 
+Este mecanismo cuenta con unas proporciones establecidas entre sus eslabones, las cuales se usarán como punto de partida. Sin embargo, el propósito del grupo es implementar algoritmos genéticos para optimizar características del mecanismo tales como:
+* Cumplir con restricciones de espacio (evitar colisiones con elementos circundantes, reducir altura total, etc.)
+* Minimizar la pérdida de carga en las ruedas tractoras.
+* Minimizar el par ejercido por el servomotor.
 
 .. image:: ../_static/GrupoAVV/AVVCombatRobotPoster.svg
 
