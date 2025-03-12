@@ -7,11 +7,11 @@ subprocess.run(['python3', script_path], check=True)
 
 
 # conf.py
-project = 'Plataforma de Ensayos'
+project = 'Máster'
 author = 'Taller 31'
 
-html_title = "Plataforma de Ensayos"
-html_short_title = "Plataforma de Ensayos"
+html_title = "Máster"
+html_short_title = "Máster"
 html_logo = '_static/MMEC.png' 
 html_favicon = '_static/MMEC.png' 
 
