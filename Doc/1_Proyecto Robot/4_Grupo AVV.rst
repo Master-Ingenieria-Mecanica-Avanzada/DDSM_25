@@ -27,7 +27,7 @@ El arma del robot busca elevar a los oponentes durante el combate, tratando de d
 
 La apuesta del grupo AVV es el mecanismo de 4 barras conocido como **Chebyshev Lambda**. Este mecanismo aproxima un **movimiento rectilineo** mediante el movimiento rotativo de uno de los eslabones. Este último, se consigue mediante la conexión de uno de los eslabones con el **servomotor S3003**. Gracias al uso de este motor, contamos con un par elevado, suficiente para elevar a oponentes de hasta 1 kg. 
 
-.. image:: ../_static/GrupoAVV/Mecanismo.gif 
+.. image:: ../_static/GrupoAVV/MecanismoRecortado.gif 
    :width: 30%
    :align: left  
 
