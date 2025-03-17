@@ -31,7 +31,7 @@ La apuesta del grupo AVV es el mecanismo de 4 barras conocido como **Chebyshev L
 Este mecanismo cuenta con unas proporciones establecidas entre sus eslabones, las cuales se usarán como punto de partida. Sin embargo, el propósito del grupo es implementar algoritmos genéticos para optimizar características del mecanismo tales como:
 
 .. image:: ../_static/GrupoAVV/MecanismoRecortado.gif 
-   :width: 50%
+   :width: 45%
    :align: left  
 
 * Cumplir con restricciones de espacio (evitar colisiones con elementos circundantes, reducir altura total, etc.)
