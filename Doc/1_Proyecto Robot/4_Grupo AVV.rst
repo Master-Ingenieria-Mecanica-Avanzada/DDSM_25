@@ -79,5 +79,13 @@ Esta función viene dada por la siguiente expresión:
 
 Aplicando los conceptos anteriores, se puede simular el comportamiento del robot ante una entrada determinada. Las siguientes animaciones son un ejemplo de ello. Esta simulación se ha desarrollado en MATLAB.
 
+.. image:: ../_static/GrupoAVV/arrowsGif.gif 
+   :width: 50%
+   :align: left
+
+.. image:: ../_static/GrupoAVV/Joystick.gif 
+   :width: 50%
+   :align: right
+
 Pruebas
 =======================
