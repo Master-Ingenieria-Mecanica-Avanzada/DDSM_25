@@ -19,6 +19,7 @@ extensions = [
     'myst_parser',
     'sphinx_rtd_theme',
     'sphinxemoji.sphinxemoji',
+    'sphinx.ext.mathjax',
     # ... otras extensiones
 ]
 
