@@ -57,24 +57,25 @@ Diseño detalle
 Tal y como se comentó en el concepto inicial, el robot cuenta con una tracción de tipo **"differential drive"**. Para poder manejar con comodidad un robot con esta tracción, es necesario realizar un estudio cinemático del mismo. Este estudio se apoya principalmente en la aplicación del concepto de Centro Instantáneo de Rotación, y permite calcular las velocidades perimetrales en cada rueda con el objetivo de mover el robot a una determinada velocidad, cumpliendo un radio de curvatura deseado. Las expresiones para determinar las velocidades en cada rueda son:
 .. math::
 
-   \begin{align}
+   \\begin{align}
    V_L = \frac{v}{\rho}(\rho - \frac{t}{2}) \\
    V_R = \frac{v}{\rho}(\rho + \frac{t}{2})
-   \end{align}
+   \\end{align}
 
 La siguiente figura permite entender estos conceptos de manera visual:
 
 .. image:: ../_static/GrupoAVV/CIRexplain.svg
 
 Sin embargo, como vemos es necesario definir un radio de curvatura :math:`\rho`. Este vendrá dado por los inputs de nuestro control, que se realiza en la aplicación **Dabble**. Esta app permite mandar consignas al microprocesador, a través de una interfaz muy amigable que cuenta con distintos controles: joysticks, botones, etc. En nuestro caso, se relaciona el radio del joystick con una velocidad, mientras que la orientación del mismo está asociada al radio de curvatura. Los radios de curvatura menores se asocian a ángulos más cercanos a la horizontal, mientras que los mayores se asocian a la vertical. La siguiente función relaciona en nuestro caso el radio de curvatura con la orientación del joystick, en grados:
+
 .. image:: ../_static/GrupoAVV/RhoMapPlot.svg
 
 Esta función viene dada por la siguiente expresión:
 .. math::
 
-   \begin{align}
+   \\begin{align}
    \rho = \frac{56}{Joystick_{deg}-90}
-   \end{align}
+   \\end{align}
 
 Aplicando los conceptos anteriores, se puede simular el comportamiento del robot ante una entrada determinada. Las siguientes animaciones son un ejemplo de ello. Esta simulación se ha desarrollado en MATLAB.
 
