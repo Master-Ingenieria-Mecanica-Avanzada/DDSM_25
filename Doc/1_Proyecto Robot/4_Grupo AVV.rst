@@ -58,7 +58,7 @@ Tal y como se comentó en el concepto inicial, el robot cuenta con una tracción
 
 .. math::
 
-   V_L = \frac{v}{\rho}(\rho - \frac{t}{2}) 
+   V_L = \frac{v}{\rho}(\rho - \frac{t}{2}) \\
    V_R = \frac{v}{\rho}(\rho + \frac{t}{2})
 
 
