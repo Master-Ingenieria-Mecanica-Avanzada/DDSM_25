@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="332.2236mm"
+   height="142.39247mm"
+   viewBox="0 0 332.2236 142.39247"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="MecanismoOpti.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.53606888"
+     inkscape:cx="709.79684"
+     inkscape:cy="308.72898"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(56.874428,-41.880142)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       id="rect9"
+       width="332.2236"
+       height="142.39247"
+       x="-56.874428"
+       y="41.880142" />
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text45"
+       x="200.28288"
+       y="88.7099"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text53"
+       x="200.28288"
+       y="102.20365"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text61"
+       x="200.28288"
+       y="115.43282"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text69"
+       x="204.20877"
+       y="128.92657"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text77"
+       x="204.20877"
+       y="142.15575"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text100"
+       x="233.44788"
+       y="61.986988"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text102"
+       x="246.92839"
+       y="61.986988"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text114"
+       x="233.29706"
+       y="75.216156"
+       style="stroke-width:0.264583"></text>
+    <text
+       fill="#2596be"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="7.14375px"
+       id="text116"
+       x="246.78021"
+       y="75.216156"
+       style="stroke-width:0.264583"></text>
+    <g
+       id="g9"
+       transform="translate(7.1397757,-1.0132516)">
+      <path
+         d="m -19.368646,104.5849 h -23.321169 v 42.06875 H 120.5581 V 142.6468 L 61.642007,114.60097 H 10.615524 Z"
+         fill="#d95319"
+         fill-rule="evenodd"
+         fill-opacity="0.34902"
+         id="path1"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 126.40036,149.31615 c 0,0.43842 -0.29606,0.79375 -0.66145,0.79375 -0.36539,0 -0.66146,-0.35533 -0.66146,-0.79375 0,-0.43841 0.29607,-0.79375 0.66146,-0.79375 0.36539,0 0.66145,0.35534 0.66145,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path2"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 127.98813,148.65179 c 0,0.36539 -0.29633,0.66145 -0.66146,0.66145 -0.36539,0 -0.66146,-0.29606 -0.66146,-0.66145 0,-0.36513 0.29607,-0.66146 0.66146,-0.66146 0.36513,0 0.66146,0.29633 0.66146,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path3"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 129.57563,147.85804 c 0,0.36539 -0.29607,0.66145 -0.66146,0.66145 -0.36539,0 -0.66146,-0.29606 -0.66146,-0.66145 0,-0.36539 0.29607,-0.66146 0.66146,-0.66146 0.36539,0 0.66146,0.29607 0.66146,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path4"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 131.43221,147.06429 c 0,0.36512 -0.35534,0.66145 -0.79375,0.66145 -0.43841,0 -0.79375,-0.29633 -0.79375,-0.66145 0,-0.36539 0.35534,-0.66146 0.79375,-0.66146 0.43841,0 0.79375,0.29607 0.79375,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path5"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 133.28032,146.00569 c 0,0.36539 -0.29633,0.66146 -0.66172,0.66146 -0.36512,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36513 0.29634,-0.66146 0.66146,-0.66146 0.36539,0 0.66172,0.29633 0.66172,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path6"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 135.13241,144.94735 c 0,0.36539 -0.29607,0.66146 -0.66146,0.66146 -0.36539,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36539 0.29607,-0.66145 0.66146,-0.66145 0.36539,0 0.66146,0.29606 0.66146,0.66145 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path7"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 137.24934,143.75938 c 0,0.43841 -0.29607,0.79375 -0.66146,0.79375 -0.36539,0 -0.66146,-0.35534 -0.66146,-0.79375 0,-0.43842 0.29607,-0.79375 0.66146,-0.79375 0.36539,0 0.66146,0.35533 0.66146,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path8"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 139.37077,142.43619 c 0,0.43842 -0.35534,0.79375 -0.79375,0.79375 -0.43842,0 -0.79375,-0.35533 -0.79375,-0.79375 0,-0.43841 0.35533,-0.79375 0.79375,-0.79375 0.43841,0 0.79375,0.35534 0.79375,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path9"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 141.21835,140.97834 c 0,0.36512 -0.29606,0.66146 -0.66145,0.66146 -0.36513,0 -0.66146,-0.29634 -0.66146,-0.66146 0,-0.36539 0.29633,-0.66172 0.66146,-0.66172 0.36539,0 0.66145,0.29633 0.66145,0.66172 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path10"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 143.34005,139.52551 c 0,0.43842 -0.3556,0.79375 -0.79402,0.79375 -0.43815,0 -0.79375,-0.35533 -0.79375,-0.79375 0,-0.43841 0.3556,-0.79375 0.79375,-0.79375 0.43842,0 0.79402,0.35534 0.79402,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path11"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 145.18763,137.93775 c 0,0.43841 -0.29607,0.79375 -0.66146,0.79375 -0.36538,0 -0.66145,-0.35534 -0.66145,-0.79375 0,-0.43842 0.29607,-0.79375 0.66145,-0.79375 0.36539,0 0.66146,0.35533 0.66146,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path12"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 147.04448,136.21531 c 0,0.36513 -0.35534,0.66146 -0.79375,0.66146 -0.43842,0 -0.79375,-0.29633 -0.79375,-0.66146 0,-0.36539 0.35533,-0.66146 0.79375,-0.66146 0.43841,0 0.79375,0.29607 0.79375,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path13"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 148.62748,134.36296 c 0,0.36539 -0.29607,0.66146 -0.66146,0.66146 -0.36539,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36539 0.29607,-0.66146 0.66146,-0.66146 0.36539,0 0.66146,0.29607 0.66146,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path14"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 150.21525,132.38097 c 0,0.43815 -0.29634,0.79375 -0.66146,0.79375 -0.36539,0 -0.66146,-0.3556 -0.66146,-0.79375 0,-0.43842 0.29607,-0.79375 0.66146,-0.79375 0.36512,0 0.66146,0.35533 0.66146,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path15"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 151.53816,130.39395 c 0,0.36512 -0.29607,0.66146 -0.66146,0.66146 -0.36539,0 -0.66145,-0.29634 -0.66145,-0.66146 0,-0.36539 0.29606,-0.66146 0.66145,-0.66146 0.36539,0 0.66146,0.29607 0.66146,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path16"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 152.86611,128.27702 c 0,0.36539 -0.35534,0.66146 -0.79375,0.66146 -0.43842,0 -0.79375,-0.29607 -0.79375,-0.66146 0,-0.36539 0.35533,-0.66146 0.79375,-0.66146 0.43841,0 0.79375,0.29607 0.79375,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path17"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 153.65509,126.16009 c 0,0.36539 -0.29607,0.66145 -0.66145,0.66145 -0.36539,0 -0.66146,-0.29606 -0.66146,-0.66145 0,-0.36539 0.29607,-0.66146 0.66146,-0.66146 0.36538,0 0.66145,0.29607 0.66145,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path18"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 154.45387,123.91324 c 0,0.43842 -0.3556,0.79375 -0.79401,0.79375 -0.43815,0 -0.79375,-0.35533 -0.79375,-0.79375 0,-0.43841 0.3556,-0.79375 0.79375,-0.79375 0.43841,0 0.79401,0.35534 0.79401,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path19"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 154.71343,121.6619 c 0,0.36513 -0.29607,0.66146 -0.66146,0.66146 -0.36513,0 -0.66146,-0.29633 -0.66146,-0.66146 0,-0.36538 0.29633,-0.66145 0.66146,-0.66145 0.36539,0 0.66146,0.29607 0.66146,0.66145 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path20"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 154.97801,119.54497 c 0,0.36539 -0.29607,0.66146 -0.66146,0.66146 -0.36512,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36539 0.29634,-0.66145 0.66146,-0.66145 0.36539,0 0.66146,0.29606 0.66146,0.66145 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path21"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 154.98304,117.42804 c 0,0.36539 -0.35534,0.66146 -0.79375,0.66146 -0.43842,0 -0.79375,-0.29607 -0.79375,-0.66146 0,-0.36539 0.35533,-0.66146 0.79375,-0.66146 0.43841,0 0.79375,0.29607 0.79375,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path22"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 154.44884,115.57569 c 0,0.36539 -0.29607,0.66146 -0.66145,0.66146 -0.36513,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36512 0.29633,-0.66145 0.66146,-0.66145 0.36538,0 0.66145,0.29633 0.66145,0.66145 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path23"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 153.91968,113.85802 c 0,0.43815 -0.29607,0.79375 -0.66146,0.79375 -0.36539,0 -0.66146,-0.3556 -0.66146,-0.79375 0,-0.43842 0.29607,-0.79402 0.66146,-0.79402 0.36539,0 0.66146,0.3556 0.66146,0.79402 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path24"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 153.12593,112.40043 c 0,0.36539 -0.29634,0.66146 -0.66146,0.66146 -0.36539,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36539 0.29607,-0.66146 0.66146,-0.66146 0.36512,0 0.66146,0.29607 0.66146,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path25"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 152.33694,111.07751 c 0,0.36513 -0.3556,0.66146 -0.79402,0.66146 -0.43815,0 -0.79375,-0.29633 -0.79375,-0.66146 0,-0.36539 0.3556,-0.66146 0.79375,-0.66146 0.43842,0 0.79402,0.29607 0.79402,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path26"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 151.009,110.2835 c 0,0.36539 -0.29607,0.66146 -0.66146,0.66146 -0.36539,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36539 0.29607,-0.66146 0.66146,-0.66146 0.36539,0 0.66146,0.29607 0.66146,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path27"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 149.95542,109.62416 c 0,0.43841 -0.3556,0.79375 -0.79375,0.79375 -0.43841,0 -0.79375,-0.35534 -0.79375,-0.79375 0,-0.43842 0.35534,-0.79375 0.79375,-0.79375 0.43815,0 0.79375,0.35533 0.79375,0.79375 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path28"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 148.62748,109.48975 c 0,0.36539 -0.29607,0.66146 -0.66146,0.66146 -0.36539,0 -0.66146,-0.29607 -0.66146,-0.66146 0,-0.36539 0.29607,-0.66146 0.66146,-0.66146 0.36539,0 0.66146,0.29607 0.66146,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path29"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 147.30906,109.48975 c 0,0.36539 -0.35533,0.66146 -0.79375,0.66146 -0.43841,0 -0.79375,-0.29607 -0.79375,-0.66146 0,-0.36539 0.35534,-0.66146 0.79375,-0.66146 0.43842,0 0.79375,0.29607 0.79375,0.66146 z"
+         fill="#edb120"
+         fill-rule="evenodd"
+         id="path30"
+         style="stroke-width:0.264583" />
+      <path
+         d="m -6.7064817,108.15413 -6.4433983,-12.035894 -1.758685,0.928952 6.4428687,12.035632 z"
+         fill="#0072bd"
+         fill-rule="evenodd"
+         id="path31"
+         style="stroke-width:0.264583" />
+      <path
+         d="m -6.57419,108.28642 -6.443398,-12.035892 -1.758685,0.928952 6.4428684,12.03563 1.7592146,-0.92869"
+         stroke="#000000"
+         stroke-width="0.220472"
+         stroke-linecap="square"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path32" />
+      <path
+         d="M 124.52685,149.82865 47.675182,87.122403 -13.850232,96.45214 Z"
+         fill="#d95319"
+         fill-rule="evenodd"
+         id="path33"
+         style="stroke-width:0.264583" />
+      <path
+         d="M -13.71794,96.584432 47.807474,87.254695 124.65914,149.96094 -13.71794,96.584432"
+         stroke="#000000"
+         stroke-width="0.220472"
+         stroke-linecap="square"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path34" />
+      <path
+         d="M 72.139351,140.8315 48.575559,86.85782 46.739351,87.652893 70.303672,141.62657 Z"
+         fill="#77ac30"
+         fill-rule="evenodd"
+         id="path35"
+         style="stroke-width:0.264583" />
+      <path
+         d="m -42.557496,104.71719 h 23.321142 l 29.98417,10.01607 h 51.026483 l 58.916091,28.0461 v 4.00658 H -42.557496 Z"
+         stroke="#000000"
+         stroke-width="0.220472"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path36" />
+      <path
+         d="m 72.271642,140.96379 -23.563791,-53.973679 -1.836208,0.795073 23.56432,53.973676 1.835679,-0.79507"
+         stroke="#000000"
+         stroke-width="0.220472"
+         stroke-linecap="square"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path37" />
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text39"
+         x="166.87843"
+         y="88.7099"
+         style="stroke-width:0.264583">𝐿</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text40"
+         x="170.62653"
+         y="90.032822"
+         style="stroke-width:0.264583">2</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text41"
+         x="175.87772"
+         y="88.7099"
+         style="stroke-width:0.264583">=</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text42"
+         x="183.12915"
+         y="88.7099"
+         style="stroke-width:0.264583">20</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text43"
+         x="190.97829"
+         y="88.7099"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text44"
+         x="192.43349"
+         y="88.7099"
+         style="stroke-width:0.264583">67</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text46"
+         x="201.82619"
+         y="88.7099"
+         style="stroke-width:0.264583">𝑚𝑚</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text47"
+         x="166.87843"
+         y="102.20365"
+         style="stroke-width:0.264583">𝐿</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text48"
+         x="170.62653"
+         y="103.52657"
+         style="stroke-width:0.264583">3</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text49"
+         x="175.87772"
+         y="102.20365"
+         style="stroke-width:0.264583">=</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text50"
+         x="183.12915"
+         y="102.20365"
+         style="stroke-width:0.264583">93</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text51"
+         x="190.97829"
+         y="102.20365"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text52"
+         x="192.43349"
+         y="102.20365"
+         style="stroke-width:0.264583">34</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text54"
+         x="201.82619"
+         y="102.20365"
+         style="stroke-width:0.264583">𝑚𝑚</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text55"
+         x="166.87843"
+         y="115.43282"
+         style="stroke-width:0.264583">𝐿</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text56"
+         x="170.62653"
+         y="117.02032"
+         style="stroke-width:0.264583">4</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text57"
+         x="175.87772"
+         y="115.43282"
+         style="stroke-width:0.264583">=</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text58"
+         x="183.12915"
+         y="115.43282"
+         style="stroke-width:0.264583">88</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text59"
+         x="190.97829"
+         y="115.43282"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text60"
+         x="192.43349"
+         y="115.43282"
+         style="stroke-width:0.264583">57</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text62"
+         x="201.82619"
+         y="115.43282"
+         style="stroke-width:0.264583">𝑚𝑚</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text63"
+         x="166.87843"
+         y="128.92657"
+         style="stroke-width:0.264583">𝐿</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text64"
+         x="170.62653"
+         y="130.2495"
+         style="stroke-width:0.264583">5</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text65"
+         x="175.87772"
+         y="128.92657"
+         style="stroke-width:0.264583">=</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text66"
+         x="183.12915"
+         y="128.92657"
+         style="stroke-width:0.264583">148</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text67"
+         x="194.90311"
+         y="128.92657"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text68"
+         x="196.35831"
+         y="128.92657"
+         style="stroke-width:0.264583">69</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text70"
+         x="205.7513"
+         y="128.92657"
+         style="stroke-width:0.264583">𝑚𝑚</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text71"
+         x="166.87843"
+         y="142.15575"
+         style="stroke-width:0.264583">𝐿</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text72"
+         x="170.62653"
+         y="143.74324"
+         style="stroke-width:0.264583">6</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text73"
+         x="175.87772"
+         y="142.15575"
+         style="stroke-width:0.264583">=</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text74"
+         x="183.12915"
+         y="142.15575"
+         style="stroke-width:0.264583">222</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text75"
+         x="194.90311"
+         y="142.15575"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text76"
+         x="196.35831"
+         y="142.15575"
+         style="stroke-width:0.264583">43</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text78"
+         x="205.7513"
+         y="142.15575"
+         style="stroke-width:0.264583">𝑚𝑚</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text79"
+         x="166.87843"
+         y="155.64949"
+         style="stroke-width:0.264583">𝛼</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text80"
+         x="171.11177"
+         y="157.23698"
+         style="stroke-width:0.264583">𝑖</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text81"
+         x="175.34856"
+         y="155.64949"
+         style="stroke-width:0.264583">=</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text82"
+         x="182.59998"
+         y="155.64949"
+         style="stroke-width:0.264583">118</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text83"
+         x="194.37395"
+         y="155.64949"
+         style="stroke-width:0.264583">°</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text84"
+         x="166.87843"
+         y="169.14323"
+         style="stroke-width:0.264583">𝛼</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text85"
+         x="170.68472"
+         y="170.46616"
+         style="stroke-width:0.264583">𝑓</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text86"
+         x="176.16161"
+         y="169.14323"
+         style="stroke-width:0.264583">=</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text87"
+         x="183.41306"
+         y="169.14323"
+         style="stroke-width:0.264583">−</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text88"
+         x="188.70471"
+         y="169.14323"
+         style="stroke-width:0.264583">64°</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text89"
+         x="168.40588"
+         y="61.986988"
+         style="stroke-width:0.264583">𝑂</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text90"
+         x="172.85802"
+         y="63.309902"
+         style="stroke-width:0.264583">2</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text91"
+         x="178.10893"
+         y="61.986988"
+         style="stroke-width:0.264583">=</text>
+      <path
+         d="m 230.74647,56.558134 c 0.67998,0.17899 1.20121,0.565546 1.56369,1.159801 0.36513,0.594254 0.54769,1.31101 0.54769,2.150533 0,0.841639 -0.18256,1.55866 -0.54504,2.150269 -0.36248,0.591873 -0.88636,0.97737 -1.56634,1.156493 l -0.0847,-0.268552 c 0.5371,-0.179123 0.93662,-0.532606 1.19856,-1.06045 0.26194,-0.527843 0.39158,-1.198827 0.39158,-2.012685 0,-0.786077 -0.12964,-1.438804 -0.38893,-1.958711 -0.26194,-0.519641 -0.66411,-0.869156 -1.2118,-1.048014 z m -42.64792,0 0.0942,0.268684 c -0.54424,0.178858 -0.94694,0.528373 -1.20861,1.048014 -0.26168,0.519907 -0.39238,1.172634 -0.39238,1.958711 0,0.813858 0.1307,1.484842 0.39238,2.012685 0.26167,0.527844 0.66093,0.881327 1.19829,1.06045 l -0.0839,0.268552 c -0.6813,-0.179123 -1.20332,-0.56462 -1.56607,-1.156493 -0.36274,-0.591609 -0.54425,-1.30863 -0.54425,-2.150269 0,-0.839523 0.18204,-1.556279 0.54584,-2.150533 0.36407,-0.594255 0.88556,-0.980811 1.56448,-1.159801 z"
+         fill="#2596be"
+         fill-rule="evenodd"
+         id="path91"
+         style="stroke-width:0.264583" />
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text92"
+         x="188.28851"
+         y="61.986988"
+         style="stroke-width:0.264583">−</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text93"
+         x="193.58018"
+         y="61.986988"
+         style="stroke-width:0.264583">27</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text94"
+         x="201.42932"
+         y="61.986988"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text95"
+         x="202.88454"
+         y="61.986988"
+         style="stroke-width:0.264583">09</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text96"
+         x="210.73338"
+         y="61.986988"
+         style="stroke-width:0.264583">,</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text97"
+         x="213.366"
+         y="61.986988"
+         style="stroke-width:0.264583">23</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text98"
+         x="221.21619"
+         y="61.986988"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text99"
+         x="222.67139"
+         y="61.986988"
+         style="stroke-width:0.264583">78</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text101"
+         x="234.99039"
+         y="61.986988"
+         style="stroke-width:0.264583">𝑚𝑚</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text103"
+         x="168.55748"
+         y="75.216156"
+         style="stroke-width:0.264583">𝑂</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.29167px"
+         id="text104"
+         x="172.70799"
+         y="76.80365"
+         style="stroke-width:0.264583">4</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text105"
+         x="177.95918"
+         y="75.216156"
+         style="stroke-width:0.264583">=</text>
+      <path
+         d="m 230.59566,69.953855 c 0.67998,0.179123 1.20121,0.565679 1.56633,1.159934 0.36248,0.593989 0.54505,1.310745 0.54505,2.150268 0,0.841904 -0.18257,1.558661 -0.54505,2.150534 -0.36247,0.591873 -0.8837,0.97737 -1.56633,1.156229 l -0.082,-0.268552 c 0.5371,-0.179123 0.93663,-0.532607 1.19592,-1.06045 0.26193,-0.527844 0.39423,-1.198563 0.39423,-2.012686 0,-0.785812 -0.12965,-1.438804 -0.39159,-1.958446 -0.25929,-0.519906 -0.6641,-0.869156 -1.20914,-1.048279 z m -42.64713,0 0.0942,0.268552 c -0.54398,0.179123 -0.94694,0.528373 -1.20861,1.048279 -0.26141,0.519642 -0.39238,1.172634 -0.39238,1.958446 0,0.814123 0.13097,1.484842 0.39238,2.012686 0.26167,0.527843 0.66119,0.881327 1.1983,1.06045 l -0.0839,0.268552 c -0.6813,-0.178859 -1.20332,-0.564356 -1.56607,-1.156229 -0.36274,-0.591873 -0.54424,-1.30863 -0.54424,-2.150534 0,-0.839523 0.18203,-1.556279 0.5461,-2.150268 0.3638,-0.594255 0.88529,-0.980811 1.56421,-1.159934 z"
+         fill="#2596be"
+         fill-rule="evenodd"
+         id="path105"
+         style="stroke-width:0.264583" />
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text106"
+         x="188.1385"
+         y="75.216156"
+         style="stroke-width:0.264583">90</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text107"
+         x="195.9879"
+         y="75.216156"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text108"
+         x="197.44312"
+         y="75.216156"
+         style="stroke-width:0.264583">81</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text109"
+         x="205.29356"
+         y="75.216156"
+         style="stroke-width:0.264583">,</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text110"
+         x="207.92352"
+         y="75.216156"
+         style="stroke-width:0.264583">−</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text111"
+         x="213.21518"
+         y="75.216156"
+         style="stroke-width:0.264583">25</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text112"
+         x="221.06537"
+         y="75.216156"
+         style="stroke-width:0.264583">.</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text113"
+         x="222.52058"
+         y="75.216156"
+         style="stroke-width:0.264583">22</text>
+      <text
+         fill="#2596be"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="7.14375px"
+         id="text115"
+         x="234.84222"
+         y="75.216156"
+         style="stroke-width:0.264583">𝑚𝑚</text>
+      <path
+         d="m 10.491434,127.33986 2.1e-5,-5.90987 H 9.9622891 l -2.14e-5,5.90987 z m 0.793771,-5.55707 -1.058326,-2.11667 -1.0583402,2.11664 z"
+         fill="#ff0000"
+         id="path116"
+         style="stroke-width:0.264583" />
+      <path
+         d="m 10.22685,127.60365 6.008265,2e-5 2.7e-5,-0.52916 -6.00829,-2e-5 z m 5.655496,0.79377 2.116667,-1.05832 -2.116667,-1.05834 z"
+         fill="#00b050"
+         id="path117"
+         style="stroke-width:0.264583" />
+      <text
+         fill="#ff0000"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.02708px"
+         id="text117"
+         x="2.8888974"
+         y="121.78282"
+         style="stroke-width:0.264583">𝑦</text>
+      <text
+         fill="#00b050"
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="5.02708px"
+         id="text118"
+         x="15.243881"
+         y="132.89532"
+         style="stroke-width:0.264583">𝑥</text>
+    </g>
+  </g>
+</svg>
