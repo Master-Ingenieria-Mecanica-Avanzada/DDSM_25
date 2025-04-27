@@ -24,7 +24,7 @@ Además, con tal de facilitar aun más la igualdad, los robots se rigen en base 
    :align: right  
 
 Se ha optado por un **sistema de tracción diferencial**, disponiendo de dos ruedas de tracción y una tercera rueda loca para aportar estabilidad. Las ruedas tractoras se accionarán con los dos **motores de reducción 150:1**, uno para cada rueda, con la posibilidad de añadir reducciones intermedias para aumentar el par motor. 
-Cuando ambos motores giren a la misma velocidad y en el mismo sentido el robot podrá avanzar en línea recta, mientras que al reducir la velocidad de giro de uno de los motores permitirá que el robot trace una curva alrededor de un punto exterior. En caso de que ambos motores giren a la misma velocidad pero en sentidos opùestos, el robot girará alrededor de si mismo. Los motores se alimentarán con la batería LiPo, y su velocidad y sentido de giro se controlarán mediante **señales PWM enviadas desde el ESP32**.
+Cuando ambos motores giren a la misma velocidad y en el mismo sentido el robot podrá avanzar en línea recta, mientras que al reducir la velocidad de giro de uno de los motores permitirá que el robot trace una curva alrededor de un punto exterior. En caso de que ambos motores giren a la misma velocidad pero en sentidos opuestos, el robot girará alrededor de si mismo. Los motores se alimentarán con la batería LiPo, y su velocidad y sentido de giro se controlarán mediante **señales PWM enviadas desde el ESP32**.
 
 
 *Concepto del arma*
@@ -52,6 +52,8 @@ El siguiente poster recoge de manera resumida los principales aspectos del robot
 
 Diseño detalle
 =======================
+
+
 *Cinemática del robot*
 ---------------------------------
 Tal y como se comentó en el concepto inicial, el robot cuenta con una tracción de tipo **"differential drive"**. Para poder manejar con comodidad un robot con esta tracción, es necesario realizar un estudio cinemático del mismo. Este estudio se apoya principalmente en la aplicación del concepto de Centro Instantáneo de Rotación, y permite calcular las velocidades perimetrales en cada rueda con el objetivo de mover el robot a una determinada velocidad, cumpliendo un radio de curvatura deseado. Las expresiones para determinar las velocidades en cada rueda son:
@@ -85,6 +87,27 @@ Aplicando los conceptos anteriores, se puede simular el comportamiento del robot
        <img src="../_static/GrupoAVV/arrowsGif.gif" width="45%">
        <img src="../_static/GrupoAVV/Joystick.gif" width="45%">
    </div>
+
+*Optimización del mecanismo*
+---------------------------------
+La principal limitación del **mecanismo Lambda de Chebyshev** es que para mantener la rectitud de la trayectoria **los eslabones deben mantener una relación específica** entre ellos. Por ello, la trayectoria del mecanismo solo puede desplazarse fuera del chasis del robot si se incrementa el tamaño de los eslabones o si se desplaza todo el mecanismo hacia adelante. En el primer caso, se violarían las restricciones de tamaño de la competición, y en el segundo caso se incrementa el riesgo de que el robot vuelque al intentar levantar el adversario. Debido a lo anterior, se ha optado por modificar el mecanismo teniendo en cuenta cuatro objetivos principales:
+
+* Cumplir con las restricciones de tamaño impuestas.
+* Hacer que el mecanismo siga la trayectoria deseada.
+* Minimizar el par ejercido por el servomotor.
+* Evitar el vuelco del robot.
+
+Para alcanzar dichos objetivos, se puede jugar con las **longitudes de los eslabones**, la **posición de los puntos fijos O2 y O4** y las **distancias AB y BC**. 
+
+Debido a la interacción entre los objetivos y entre las variables, se ha decidido utilizar un algoritmo genético de evolución diferencial. Para ello, es necesario definir una población de individuos, todos con un grupo definido de variables a optimizar consideradas "genes". En este caso, las variables a optimizar serán las descritas previamente, además del ángulo inicial y final del recorrido del mecanismo.
+
+.. image:: ../_static/GrupoAVV/ParametrosOpti.svg
+
+Con ello, cada individuo de la población será un mecanismo con una configuración única, que se resolverá tanto para posición como para fuerzas en el recorrido angular definido del eslabón motor. A partir de dichas soluciones, será posible evaluar lo bien que cumple el mecanismo los objetivos buscados. Para ello, es necesario definir una función de coste que, al evaluar un individuo, devuelva un error, que en definitiva indica que tan bien cumple dicho inidviduo los objetivos.
+
+.. math::
+   error = \sqrt(k_c\cdot e_c^2 + k_d\cdot e_d^2)	
+
 
 Pruebas
 =======================
