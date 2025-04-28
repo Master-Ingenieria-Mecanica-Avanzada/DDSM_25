@@ -129,7 +129,9 @@ A partir de la ecuación de restricción, es posible evaluar a cada individuo de
 
 A partir de la solución optimizada, se adapta la geometría de los eslabones para que no interfieran con el resto de los elementos del robot y se realiza un estudio utilizando MEF para comprobar que estos soportan los esfuerzos generados por las cargas. Para ello, se definen tres estados de carga, uno para cada eslabón móvil.
 
-Para el eslabón número 3, el caso más desfavorable ocurre cuando la carga es totalmente perpendicular a la superficie que levanta el contrincante.
+.. image:: ../_static/GrupoAVV/MecanismosSuperpuestos.svg
+
+Para el eslabón número 3, el caso más desfavorable ocurre cuando la carga es totalmente perpendicular a la superficie que levanta al contrincante.
 
 Para los eslabones 2 y 4, se identifican los instantes en los que la fuerza ejercida por el eslabón 3 sobre cada uno de los eslabones es la máxima. Teniendo el instante y la fuerza máxima para cada eslabón, es posible determinar la posición angular de los eslabones en dichos instantes. Con dichos ángulos, es posible descomponer las fuerzas aplicadas en una componente paralela y otra perpendicular al eje del eslabón. 
 
